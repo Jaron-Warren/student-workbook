@@ -49,9 +49,9 @@ if (1 > 2) {
 for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
-incrementer, it runs at the end of each loop. i++
-```
 
+```
+incrementer, it runs at the end of each loop. i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
