@@ -1,6 +1,6 @@
 # Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
 
-Today we learned about the MVC design pattern and how to link files with import/export
+Today we learned about the MVC design pattern and how to link files with import/export. afternoon work: https://github.com/Jaron-Warren/Vending_machine
 
 ## What is the purpose of Encapsulation?
 
