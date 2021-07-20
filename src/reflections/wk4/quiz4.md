@@ -28,30 +28,30 @@ A promise is a placeholder for a function when it's still running, it will alway
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-XHR
+Get,Post,Put,Delete
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-
+application programming interface
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+The controller or service
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+Protects data from being changed on the client and from other parts of code, makes changes easier by hiding details behind an interface
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+anything in the 200's
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+something on the server's end had an error
 ```
