@@ -2,13 +2,13 @@
 
 
 
-## What are lifecycle hooks?
+## What is a nested route?
 
 
 
-## What are lifecycle hooks used for?
+## When might you use a nested route? (other than the provided example)
 
 
 
-## What are mounting hooks? When might you use them?
+## Can you pass parameters through nested routes? When might you use them?
 
