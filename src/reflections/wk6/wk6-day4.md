@@ -1,6 +1,6 @@
 # Using Nested Routes in Vue.js
 
-today we reviewed vue and integrating api's and auth0. 
+today we reviewed vue and integrating api's and auth0. https://github.com/Jo-nathanWright/Blogger
 
 ## What is a nested route?
 
