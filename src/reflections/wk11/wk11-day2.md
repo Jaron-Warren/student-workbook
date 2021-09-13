@@ -1,6 +1,6 @@
 # Read Dotnet WebAPI's > Relationships, and answer the following questions
 
-we reviewed for the final today. I practiced white board challenges in the afternoon.
+we reviewed for the final today. I practiced white board challenges in the afternoon. problem I was given by tim: https://github.com/Jaron-Warren/whiteboards
 
 ## What is the difference between a primary key and a foreign key
 
